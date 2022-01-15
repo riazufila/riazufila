@@ -20,11 +20,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📅 Milestones
-- [ ] Learn **C#, ASP.NET MVC, Razor Pages, and .NET Core Web API**
+- [ ] Learn **C#, ASP.NET Core MVC, ASP.NET Core Razor Pages, and ASP.NET Core Web API**
+- [ ] Improve **Java Programming Language**
 - [ ] Learn **C and Embedded Systems**
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 📈 Statistics
