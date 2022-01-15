@@ -1,4 +1,4 @@
-### Tech Stack
+### Tech Stacks
 
 - Frameworks: ReactJS, React Native, NodeJS, and GraphQL
 - Programming Languages: JavaScript and Python
@@ -6,7 +6,7 @@
 - Style Sheet Languages: CSS
 - Interests: Backend Development, C Programming Language, and Embedded Systems
 
-### 2022's Developer Goal
+### Milestones
 - [ ] Learn ASP.NET MVC, Razor Pages, and .NET Core Web API
 - [ ] Learn C and Embedded Systems
 
