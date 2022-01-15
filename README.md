@@ -13,7 +13,4 @@
 
 ### 📈 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riazufila&count_private=true&show_icons=true&theme=github_dark)
-
-[![Repos Badge](https://badges.pufler.dev/repos/riazufila)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/riazufila)](https://badges.pufler.dev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riazufila&count_private=true&show_icons=true&theme=apprentice)
