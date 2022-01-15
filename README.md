@@ -1,3 +1,5 @@
+*Hello! I am a Computer Science enthusiast looking to expand and sharpen my skills and knowledge in anything IT-related. So far, I've used my knowledge to design and develop **Discord Bots, Mobile Applications, Web Applications, and some utility scripts.***
+
 ### ⚡ Technologies
 
 - Frameworks: **ReactJS, React Native, NodeJS, and GraphQL**
