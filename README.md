@@ -19,7 +19,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📅 Milestones
+### 📅 2022 Milestones
 - [ ] Learn **C#, ASP.NET Core MVC, ASP.NET Core Razor Pages, and ASP.NET Core Web API**
 - [ ] Revise **Java Programming Language**
 - [ ] Learn **C and Embedded Systems**
