@@ -21,7 +21,7 @@
 
 ### 📅 Milestones
 - [ ] Learn **C#, ASP.NET Core MVC, ASP.NET Core Razor Pages, and ASP.NET Core Web API**
-- [ ] Improve **Java Programming Language**
+- [ ] Revise **Java Programming Language**
 - [ ] Learn **C and Embedded Systems**
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
