@@ -23,7 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📅&ensp;2022 Milestones
-- [ ] Learn **C#**
+- [x] Learn **C#**
 - [ ] Learn **ASP.NET Core MVC**
 - [ ] Learn **ASP.NET Core Razor Pages**
 - [ ] Learn **Microsoft SQL Server**
