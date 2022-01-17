@@ -2,12 +2,12 @@
 
 ### ⚡&ensp;Technologies
 
-- Frameworks: **ReactJS, React Native, NodeJS, and GraphQL**
-- Programming Languages: **JavaScript and Python**
-- Markup Languages: **HTML and LaTeX**
-- Style Sheet Languages: **CSS**
-- Databases: **PostgreSQL and MongoDB**
-- Familiarity with **Linux Operating System**
+- Frameworks: **ReactJS**, **React Native**, **NodeJS**, and **GraphQL**.
+- Programming Languages: **JavaScript** and **Python**.
+- Markup Languages: **HTML** and **LaTeX**.
+- Style Sheet Languages: **CSS**.
+- Databases: **PostgreSQL** and **MongoDB**.
+- Familiarity with **Linux** Operating System.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -23,13 +23,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📅&ensp;2022 Milestones
-- [x] Learn **C#**
-- [ ] Learn **ASP.NET Core MVC**
-- [ ] Learn **ASP.NET Core Razor Pages**
-- [ ] Learn **Microsoft SQL Server**
-- [ ] Revise **Java Programming Language**
-- [ ] Revise **C**
-- [ ] Learn **Embedded Systems**
+- [x] Learn **C#**.
+- [ ] Learn **ASP.NET Core MVC**.
+- [ ] Learn **ASP.NET Core Razor Pages**.
+- [ ] Learn **Microsoft SQL Server**.
+- [ ] Revise **Java Programming Language**.
+- [ ] Revise **C**.
+- [ ] Learn **Embedded Systems**.
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
