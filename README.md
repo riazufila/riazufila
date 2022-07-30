@@ -3,7 +3,7 @@
 ### ⚡&ensp;Technologies
 
 - Frameworks: **ReactJS**, **React Native**, **NodeJS**, and **GraphQL**.
-- Programming Languages: **JavaScript**, **Python**, **C#**.
+- Programming Languages: **JavaScript**, **Python**, **C#**, and **Java**.
 - Markup Languages: **HTML** and **LaTeX**.
 - Style Sheet Languages: **CSS**.
 - Databases: **PostgreSQL**, **MongoDB**, and **Microsoft SQL Server**.
@@ -28,7 +28,7 @@
 - [x] Learn **C#**.
 - [x] Learn **ASP.NET Core MVC**.
 - [x] Learn **Microsoft SQL Server**.
-- [ ] Revise **Java Programming Language**.
+- [x] Revise **Java Programming Language**.
 - [ ] Learn **Rust Programming Language**.
 - [ ] Learn **Inferno**.
 - [ ] Learn **Actix Web**.
